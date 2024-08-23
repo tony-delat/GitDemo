@@ -20,6 +20,10 @@ public class SelIntroduction {
         System.out.println(driver.getTitle());
         System.out.println(driver.getCurrentUrl());
 
+        //adding as user 2 these lines:
+        System.out.println("my line 1");
+        System.out.println("my line 2");
+
         driver.close();
 
     }
