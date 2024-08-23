@@ -23,6 +23,9 @@ public class SelIntroduction {
         //adding as user 2 these lines:
         System.out.println("my line 1");
         System.out.println("my line 2");
+        //user 1 changes...
+        System.out.println("user 1's lines");
+        System.out.println("another one from U1");
 
         driver.close();
 
